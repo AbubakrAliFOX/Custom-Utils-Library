@@ -23,5 +23,14 @@
     <ClInclude Include="clsUtils.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="clsDate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="clsString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="clsChar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

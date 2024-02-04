@@ -130,6 +130,9 @@
     <ClCompile Include="C++ OOP (Applications).cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="clsChar.h" />
+    <ClInclude Include="clsDate.h" />
+    <ClInclude Include="clsString.h" />
     <ClInclude Include="clsUtils.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
