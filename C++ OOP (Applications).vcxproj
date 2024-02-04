@@ -132,6 +132,7 @@
   <ItemGroup>
     <ClInclude Include="clsChar.h" />
     <ClInclude Include="clsDate.h" />
+    <ClInclude Include="clsInputValidate.h" />
     <ClInclude Include="clsString.h" />
     <ClInclude Include="clsUtils.h" />
   </ItemGroup>
